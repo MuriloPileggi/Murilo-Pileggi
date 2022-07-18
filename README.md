@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuzaoDaMassa
 - 👀 I’m interested in Game Development and AI.
 - 🌱 I'm have a Superior Technological Degree in Digital Games and am in the Second Year of a Bachelor's in Mechatronics Engineering.
-- 💞️ I’m looking for my first professional experience in Game Development.
+- 💞️ I’m looking for professional experiences in Game Development.
 - 📫 How to reach me MuzaoDaMassaGames@gmail.com
 
 <!---
