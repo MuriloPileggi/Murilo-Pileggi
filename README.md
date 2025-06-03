@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and AI.
 - 🌱 I'm have a Superior Technological Degree in Digital Games and am in the 5th year of a 5 years Bachelor's in Mechatronics Engineering.
 - 💞️ I’m looking for professional experiences in Game Development.
-- 📫 How to reach me: MuzaoDaMassaGames@gmail.com
+- 📫 How to reach me: murilopileggi@gmail.com
 
 <!---
 MuzaoDaMassa/MuzaoDaMassa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
