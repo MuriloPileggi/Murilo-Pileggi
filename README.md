@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuzaoDaMassa
+- 👋 Hi, I’m @MuriloPileggi
 - 👀 I’m interested in Game Development and AI.
 - 🌱 I'm have a Superior Technological Degree in Digital Games and am in the 5th year of a 5 years Bachelor's in Mechatronics Engineering.
 - 💞️ I’m looking for professional experiences in Game Development.
